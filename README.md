@@ -15,15 +15,3 @@ This tool is ideal for marketing and data analysts looking to optimize workflows
 ## Contributions
 
 Contributions are welcome! If you have ideas for improving this project or wish to add new features, feel free to open an issue or submit a pull request.
-
-## Getting Started
-
-(Add instructions on how to install and use the tool)
-
-## License
-
-(Specify the license under which this project is released)
-
-## Contact
-
-(Provide contact information or links for support and queries)
