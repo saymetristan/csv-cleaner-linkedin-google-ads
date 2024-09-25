@@ -53,5 +53,6 @@ def procesar():
     # Devolver el archivo procesado
     return send_file(output, mimetype='text/csv', as_attachment=True, download_name='archivo_procesado.csv')
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# Eliminar o comentar esta línea en producción
+# if __name__ == "__main__":
+#     app.run(debug=True)
